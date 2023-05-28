@@ -25,4 +25,4 @@ User Settings and Customization: Provide options for users to customize their po
 * Documentation and Support: Provide clear documentation and support resources to assist users in setting up and using the plugin effectively. Include frequently asked questions and troubleshooting guides.
 * Ongoing Maintenance and Updates: Plan for ongoing maintenance and updates to address bug fixes, security updates, and compatibility with evolving web standards and changes in NFT platforms.
 
-By considering these aspects and following a systematic design and development process, we will create an NFT portfolio tracker plugin that meets the needs of users in managing and monitoring their NFT collections.
+By considering these aspects and following a systematic design and development process, we will create an NFT portfolio tracker plugin that meets the needs of users in managing and monitoring their NFT collections
